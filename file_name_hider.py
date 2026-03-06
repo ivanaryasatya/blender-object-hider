@@ -3,7 +3,7 @@ import os
 import re
 
 # === PATH FILE TXT ===
-file_path = r"G:\My Drive\Beta Pictoris - shooter robot\3D file\3D_print_part\part_list.txt"  # GANTI dengan path file kamu
+file_path = r"G:\My Drive\Beta Pictoris - shooter robot\3D file\Name_list\part_list.txt"  # GANTI dengan path file kamu
 
 # === CEK FILE ADA ATAU TIDAK ===
 if not os.path.exists(file_path):
